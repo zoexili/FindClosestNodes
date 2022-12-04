@@ -1,7 +1,8 @@
 ############################################################
+# Li Xi
+# lxi@bu.edu
 # Starter code for Bellman-Ford modification assignment
 # November 2022
-# Adam Smith, Boston University
 ############################################################
 
 
